@@ -1,0 +1,14 @@
+2026-03-04
+
+SQL 구조
+
+예시 SELECT * FROM users WHERE id = 'admin';
+
+SELECT- 가져와라
+* - 모든정보
+FROM users -uesrs 테이블에서
+WHERE id = 'admin'-id가 admin인것만
+
+테이블 = 엑셀 표 같은것
+컬럼 = 표의 열 (id,password 같은 것)
+WHERE = 조건
